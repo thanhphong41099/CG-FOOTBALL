@@ -732,13 +732,13 @@ namespace VLeague.src.menu
         }
         public void LoadPlayersHome()
         {
-            Player[] teamPlayers = new Player[21]; // Khởi tạo mảng 21 phần tử
+            PlayerOLD[] teamPlayers = new PlayerOLD[21]; // Khởi tạo mảng 21 phần tử
 
             for (int i = 0; i < 21; i++)
             {
                 if (dgvHomePlayer.Rows[i].IsNewRow) continue; // Bỏ qua hàng mới
 
-                Player player = new Player
+                PlayerOLD player = new PlayerOLD
                 {
                     Name = dgvHomePlayer.Rows[i].Cells["Name"].Value.ToString(),
                     ShortName = dgvHomePlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
@@ -755,13 +755,13 @@ namespace VLeague.src.menu
         }
         public void LoadPlayersAway()
         {
-            Player[] teamPlayers = new Player[21]; // Khởi tạo mảng 21 phần tử
+            PlayerOLD[] teamPlayers = new PlayerOLD[21]; // Khởi tạo mảng 21 phần tử
 
             for (int i = 0; i < 21; i++)
             {
                 if (dgvAwayPlayer.Rows[i].IsNewRow) continue; // Bỏ qua hàng mới
 
-                Player player = new Player
+                PlayerOLD player = new PlayerOLD
                 {
                     Name = dgvAwayPlayer.Rows[i].Cells["Name"].Value.ToString(),
                     ShortName = dgvAwayPlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
@@ -779,11 +779,11 @@ namespace VLeague.src.menu
         //Load DS thi đấu và dự bị đội nhà
         public void loadPlayerHomeLineSub()
         {
-            Player[] playersLineup = new Player[11];
-            Player[] playersSub = new Player[10];
+            PlayerOLD[] playersLineup = new PlayerOLD[11];
+            PlayerOLD[] playersSub = new PlayerOLD[10];
             for (int i = 0; i < 11; i++)
             {
-                Player player = new Player();
+                PlayerOLD player = new PlayerOLD();
                 player.Name = dgvHomePlayer.Rows[i].Cells["Name"].Value.ToString();
                 player.ShortName = dgvHomePlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
                     " " + dgvHomePlayer.Rows[i].Cells["Jersey Name"].Value.ToString();
@@ -794,7 +794,7 @@ namespace VLeague.src.menu
             }
             for (int i = 11; i < 21; i++)
             {
-                Player player = new Player();
+                PlayerOLD player = new PlayerOLD();
                 player.Name = dgvHomePlayer.Rows[i].Cells["Name"].Value.ToString();
                 player.ShortName = dgvHomePlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
                     " " + dgvHomePlayer.Rows[i].Cells["Jersey Name"].Value.ToString();
@@ -809,11 +809,11 @@ namespace VLeague.src.menu
         //Load DS thi đấu và dự bị đội khách
         public void loadPlayerAwayLineSub()
         {
-            Player[] playersLineup = new Player[11];
-            Player[] playersSub = new Player[10];
+            PlayerOLD[] playersLineup = new PlayerOLD[11];
+            PlayerOLD[] playersSub = new PlayerOLD[10];
             for (int i = 0; i < 11; i++)
             {
-                Player player = new Player();
+                PlayerOLD player = new PlayerOLD();
                 player.Name = dgvAwayPlayer.Rows[i].Cells["Name"].Value.ToString();
                 player.ShortName = dgvAwayPlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
                     " " + dgvAwayPlayer.Rows[i].Cells["Jersey Name"].Value.ToString();
@@ -824,7 +824,7 @@ namespace VLeague.src.menu
             }
             for (int i = 11; i < 21; i++)
             {
-                Player player = new Player();
+                PlayerOLD player = new PlayerOLD();
                 player.Name = dgvAwayPlayer.Rows[i].Cells["Name"].Value.ToString();
                 player.ShortName = dgvAwayPlayer.Rows[i].Cells["Jersey #"].Value.ToString() +
                     " " + dgvAwayPlayer.Rows[i].Cells["Jersey Name"].Value.ToString();

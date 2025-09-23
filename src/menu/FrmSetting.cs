@@ -321,7 +321,7 @@ namespace VLeague
             process.Start();
         }
         public void loadLineUpSub(string txtTeamLongName,
-    string txtCoachName, string teamLogoIn, string teamLogoOut, Player[] playersLineUp, Player[] PlayersSub)
+    string txtCoachName, string teamLogoIn, string teamLogoOut, PlayerOLD[] playersLineUp, PlayerOLD[] PlayersSub)
         {
 
             string scene = "\\teamlineup.t2s";
@@ -368,7 +368,7 @@ namespace VLeague
             KAScenePlayer.Play(layerPreMatch);
         }
         public void loadLineUpSubTac(List<Point> Positions,Color playerColor, Color GKColor, string txtTeamLongName,
-        string txtCoachName, string tactical, string teamLogoIn, string teamLogoOut, Player[] playersLineUp, Player[] PlayersSub)
+        string txtCoachName, string tactical, string teamLogoIn, string teamLogoOut, PlayerOLD[] playersLineUp, PlayerOLD[] PlayersSub)
         {
 
             string scene = "\\teamlineup3.t2s";

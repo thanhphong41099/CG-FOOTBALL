@@ -61,7 +61,7 @@ namespace VLeague.src.menu
                 MessageBox.Show("Có lỗi xảy ra khi load dữ liệu, vui lòng LOAD DATA ở DATA IMPORT", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
-        private void UpdatePlayerNumber(ComboBox comboBox, TextBox textBox, Player[] players)
+        private void UpdatePlayerNumber(ComboBox comboBox, TextBox textBox, PlayerOLD[] players)
         {
             int selectedIndex = comboBox.SelectedIndex;
 
@@ -122,7 +122,7 @@ namespace VLeague.src.menu
             UpdatePlayerNumber(cbbAwaySub3, numAwaySub3, TeamInfor.PlayersAway);
         }
         //Hàm đổi cầu thủ Ra sân và Dự bị khi thay người
-        private void SwapPlayer(ComboBox cbbLineUp, ComboBox cbbSub,TextBox numLineup, TextBox numSub, Player[] playerLineup, Player[] playerSub)
+        private void SwapPlayer(ComboBox cbbLineUp, ComboBox cbbSub,TextBox numLineup, TextBox numSub, PlayerOLD[] playerLineup, PlayerOLD[] playerSub)
         {
             //int selectedIndexOut = cbbLineUp.SelectedIndex;
             //int selectedIndexIn = cbbSub.SelectedIndex;

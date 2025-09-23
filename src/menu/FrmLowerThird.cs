@@ -85,11 +85,11 @@ namespace VLeague.src.menu
             }
         }
 
-        private void FillCbbPlayer(ComboBox comboBox, Player[] players)
+        private void FillCbbPlayer(ComboBox comboBox, PlayerOLD[] players)
         {
             comboBox.Items.Clear();
             // Lặp qua mảng players và thêm ShortName của mỗi player vào ComboBox
-            foreach (Player player in players)
+            foreach (PlayerOLD player in players)
             {
                 string item = player.ShortName;
                 comboBox.Items.Add(item.Substring(item.IndexOf(' ') + 1));
@@ -142,7 +142,7 @@ namespace VLeague.src.menu
         }
 
         // Hàm chung để lấy số áo (Number) của cầu thủ được chọn
-        public void UpdatePlayerNumber(ComboBox comboBox, TextBox textBox, Player[] players)
+        public void UpdatePlayerNumber(ComboBox comboBox, TextBox textBox, PlayerOLD[] players)
         {
             int selectedIndex = comboBox.SelectedIndex;
 
@@ -154,7 +154,7 @@ namespace VLeague.src.menu
         }
 
         // Hàm tìm Name từ giá trị TextBox chuyển về int
-        public void UpdatePlayerName(ComboBox comboBox , TextBox textBox, Player[] players)
+        public void UpdatePlayerName(ComboBox comboBox , TextBox textBox, PlayerOLD[] players)
         {
             int number;
             if (int.TryParse(textBox.Text, out number))

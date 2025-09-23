@@ -40,12 +40,12 @@ namespace VLeague.src.model
         public static Color GK_AwayColor { get; set; }
         public static List<Point> awayPosition { get; set; } = new List<Point>();
 
-        public static Player[] PlayersHomeLineup { get; set; }
-        public static Player[] PlayersHomeSub { get; set; }
-        public static Player[] PlayersAwayLineup { get; set; }
-        public static Player[] PlayersAwaySub { get; set; }
-        public static Player[] PlayersHome { get; set; }
-        public static Player[] PlayersAway { get; set; }
+        public static PlayerOLD[] PlayersHomeLineup { get; set; }
+        public static PlayerOLD[] PlayersHomeSub { get; set; }
+        public static PlayerOLD[] PlayersAwayLineup { get; set; }
+        public static PlayerOLD[] PlayersAwaySub { get; set; }
+        public static PlayerOLD[] PlayersHome { get; set; }
+        public static PlayerOLD[] PlayersAway { get; set; }
         // Phương thức để cập nhật SharedData từ FrmDataImport
         public static void UpdateData(string newhomeCode, string newhomeTactical, string newhomeTenDai, string newhomeTenNgan, string newhomeHLV, string newhomeLogo,
                                                string newawayCode, string newawayTactical, string newawayTenDai, string newawayTenNgan, string newawayHLV, string newawayLogo, Color newHomeColor, Color newAwayColor,

@@ -137,11 +137,11 @@ namespace VLeague.src.menu
             return luminance > 128 ? Color.Black : Color.White;
         }
 
-        public static void FillCbbPlayer(ComboBox comboBox, Player[] players)
+        public static void FillCbbPlayer(ComboBox comboBox, PlayerOLD[] players)
         {
             comboBox.Items.Clear();
             // Lặp qua mảng players và thêm ShortName của mỗi player vào ComboBox
-            foreach (Player player in players)
+            foreach (PlayerOLD player in players)
             {
                 comboBox.Items.Add(player.ShortName);
             }
