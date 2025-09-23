@@ -22,24 +22,26 @@ INSERT INTO TACTICAL(MATCH_ID, TEAM_ID, TACTICAL_TEXT) VALUES(@mid, @tid, @txt);
             }
         }
 
-        public Dictionary<int, string> ByMatch(int matchId)
+        public List<TacticalItem> ByMatch(int matchId)
         {
-            var dict = new Dictionary<int, string>();
+            var list = new List<TacticalItem>();
             using (var cmd = Conn.CreateCommand())
             {
-                cmd.CommandText = @"SELECT TEAM_ID, TACTICAL_TEXT FROM TACTICAL WHERE MATCH_ID=@mid;";
+                cmd.CommandText = @"SELECT MATCH_ID, TEAM_ID, TACTICAL_TEXT FROM TACTICAL WHERE MATCH_ID=@mid ORDER BY TEAM_ID;";
                 cmd.Parameters.AddWithValue("@mid", matchId);
                 using (var rd = cmd.ExecuteReader())
                 {
                     while (rd.Read())
                     {
-                        var teamId = rd.GetInt32(0);
-                        var txt = rd.IsDBNull(1) ? null : rd.GetString(1);
-                        dict[teamId] = txt;
+                        var item = new TacticalItem();
+                        item.MATCH_ID = rd.GetInt32(0);
+                        item.TEAM_ID = rd.GetInt32(1);
+                        item.TACTICAL_TEXT = rd.IsDBNull(2) ? null : rd.GetString(2);
+                        list.Add(item);
                     }
                 }
             }
-            return dict;
+            return list;
         }
     }
 }

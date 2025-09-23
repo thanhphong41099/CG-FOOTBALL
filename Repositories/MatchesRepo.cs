@@ -13,9 +13,13 @@ namespace VLeague.Repositories
             var list = new List<Match>();
             using (var cmd = Conn.CreateCommand())
             {
-                cmd.CommandText = @"SELECT MATCH_ID, ROUND, MATCH_DAY, STADIUM, TOURNAMENT,
-                                           HOME_TEAM, AWAY_TEAM, HOME_COLOR, AWAY_COLOR
-                                    FROM MATCHES ORDER BY MATCH_ID DESC;";
+                cmd.CommandText = @"SELECT m.MATCH_ID, m.ROUND, m.MATCH_DAY, m.STADIUM, m.TOURNAMENT,
+                                           m.HOME_TEAM, m.AWAY_TEAM, m.HOME_COLOR, m.AWAY_COLOR,
+                                           ht.TEAMS_FULL_NAME AS HOME_NAME, at.TEAMS_FULL_NAME AS AWAY_NAME
+                                    FROM MATCHES m
+                                    LEFT JOIN TEAM_ID ht ON ht.TEAM_ID = m.HOME_TEAM
+                                    LEFT JOIN TEAM_ID at ON at.TEAM_ID = m.AWAY_TEAM
+                                    ORDER BY m.MATCH_ID DESC;";
                 using (var rd = cmd.ExecuteReader())
                 {
                     while (rd.Read())
@@ -31,9 +35,13 @@ namespace VLeague.Repositories
         {
             using (var cmd = Conn.CreateCommand())
             {
-                cmd.CommandText = @"SELECT MATCH_ID, ROUND, MATCH_DAY, STADIUM, TOURNAMENT,
-                                           HOME_TEAM, AWAY_TEAM, HOME_COLOR, AWAY_COLOR
-                                    FROM MATCHES WHERE MATCH_ID=@id;";
+                cmd.CommandText = @"SELECT m.MATCH_ID, m.ROUND, m.MATCH_DAY, m.STADIUM, m.TOURNAMENT,
+                                           m.HOME_TEAM, m.AWAY_TEAM, m.HOME_COLOR, m.AWAY_COLOR,
+                                           ht.TEAMS_FULL_NAME AS HOME_NAME, at.TEAMS_FULL_NAME AS AWAY_NAME
+                                    FROM MATCHES m
+                                    LEFT JOIN TEAM_ID ht ON ht.TEAM_ID = m.HOME_TEAM
+                                    LEFT JOIN TEAM_ID at ON at.TEAM_ID = m.AWAY_TEAM
+                                    WHERE m.MATCH_ID=@id;";
                 cmd.Parameters.AddWithValue("@id", matchId);
                 using (var rd = cmd.ExecuteReader())
                 {
@@ -98,6 +106,8 @@ namespace VLeague.Repositories
             m.AWAY_TEAM = rd.IsDBNull(6) ? 0 : rd.GetInt32(6);
             m.HOME_COLOR = rd.IsDBNull(7) ? null : rd.GetString(7);
             m.AWAY_COLOR = rd.IsDBNull(8) ? null : rd.GetString(8);
+            m.HOME_NAME = rd.IsDBNull(9) ? null : rd.GetString(9);
+            m.AWAY_NAME = rd.IsDBNull(10) ? null : rd.GetString(10);
             return m;
         }
     }
