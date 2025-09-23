@@ -1,0 +1,429 @@
+C:\Users\thanhdev\Desktop\V-League\VLeague\bin\Debug\VLeague.exe
+C:\Users\thanhdev\Desktop\V-League\VLeague\bin\Debug\VLeague.exe.config
+C:\Users\thanhdev\Desktop\V-League\VLeague\bin\Debug\VLeague.pdb
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.FrmSetting.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.csproj.Up2Date
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.exe
+C:\Users\thanhdev\Desktop\V-League\VLeague\obj\Debug\VLeague.pdb
+C:\Users\thanhdev\Downloads\V-League-20240521T182812Z-001\V-League\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+C:\Users\thanhdev\Downloads\V-League-20240521T182812Z-001\V-League\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+C:\Users\thanhdev\Downloads\V-League-20240521T182812Z-001\V-League\VLeague\obj\Debug\VLeague.exe
+C:\Users\thanhdev\Downloads\V-League-20240521T182812Z-001\V-League\VLeague\obj\Debug\VLeague.pdb
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe.config
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\bin\Debug\VLeague.pdb
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetting.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.Up2Date
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.exe
+C:\Users\Phong\OneDrive\Desktop\VLEAGUE 2024\VLeague\obj\Debug\VLeague.pdb
+E:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe.config
+E:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe
+E:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.pdb
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetting.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.Up2Date
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.exe
+E:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.pdb
+D:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe.config
+D:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe
+D:\V-Leaguae\VLEAGUE 2024\VLeague\bin\Debug\VLeague.pdb
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetting.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.Up2Date
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.exe
+D:\V-Leaguae\VLEAGUE 2024\VLeague\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.src.menu.FrmSetup.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague26-4\VLeague\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.FrmFootBall.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.src.menu.FrmSetup.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.FrmSetupTeam.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.FrmSetupMatch.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024 - WDF\VLeague\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.FrmFootBall.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague14-7\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.FrmFootBall.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeague15-7pm2\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLeagueTest\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VL-TestWDF\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.exe
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VL-TestWDF\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VL-TestWDF\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VL-TestWDF\bin\Debug\VLeague.exe
+D:\KARISMA CG\VL-TestWDF\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.SetupControl.resources
+D:\KARISMA CG\VL-TestWDF\obj\Debug\VLeague.src.menu.DataImportControl.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VL-TestWDF\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLapp\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLapp\bin\Debug\VLeague.exe.config
+D:\KARISMA CG\VLEAGUE 2024\VLapp\bin\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLapp\bin\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.exe
+D:\KARISMA CG\VLEAGUE 2024\VLapp\obj\Debug\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.model.CustomMessageBox.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Debug\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Debug\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Debug\Newtonsoft.Json.dll
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Debug\Newtonsoft.Json.xml
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\DataSet1.Designer.cs
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\CGControl.exe.config
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\CGControl.exe
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\CGControl.pdb
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\Control.Draggable.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\Newtonsoft.Json.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Debug\Newtonsoft.Json.xml
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.chaychudung.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.chaychungang.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmNews.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmPlayScene.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmSettingNews.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.FrmSetting.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.Properties.Resources.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.menu.NewsControl.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.model.CustomMessageBox.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.model.FrmAbout.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.src.model.FrmOption.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\VLeague.csproj.Up2Date
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\CGControl.exe
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Debug\CGControl.pdb
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\DataSet1.Designer.cs
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\CGControl.exe.config
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\CGControl.exe
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\CGControl.pdb
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\Control.Draggable.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\Newtonsoft.Json.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Debug\Newtonsoft.Json.xml
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.chaychudung.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.chaychungang.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmNews.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmPlayScene.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmSettingNews.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.FrmSetting.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.Properties.Resources.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.menu.NewsControl.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.model.CustomMessageBox.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.model.FrmAbout.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.src.model.FrmOption.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\VLeague.csproj.Up2Date
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\CGControl.exe
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Debug\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\DataSet1.Designer.cs
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\CGControl.exe.config
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\CGControl.exe
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\Control.Draggable.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\Newtonsoft.Json.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Debug\Newtonsoft.Json.xml
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.csproj.AssemblyReference.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\CGControl.exe.config
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\Interop.K3DAsyncEngineLib.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.csproj.ResolveComReference.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmCupQG.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmPlayScene.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmPostMatch.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmSponsor.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmLowerThird.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmPenalty.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmVar.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmInMatchClock.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmInMatchStatic.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmPreMatch.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmDataImport.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.FrmSetting.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.FrmKarismaMenu.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.Properties.Resources.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmTactical.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.menu.FrmSubstitution.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.model.CustomMessageBox.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.model.FrmAbout.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.src.model.FrmOption.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.csproj.GenerateResource.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.csproj.CoreCompileInputs.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.csproj.Up2Date
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\CGControl.exe
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Debug\VLeague.SetupUC.resources

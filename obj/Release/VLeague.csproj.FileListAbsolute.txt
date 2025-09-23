@@ -1,0 +1,521 @@
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Release\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2024\VLeague\bin\Release\IniReaderUnicode.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\UptopCGControl\Vleague\bin\Release\DataSet1.Designer.cs
+D:\UptopCGControl\Vleague\bin\Release\VLeague.exe.config
+D:\UptopCGControl\Vleague\bin\Release\VLeague.exe
+D:\UptopCGControl\Vleague\bin\Release\VLeague.pdb
+D:\UptopCGControl\Vleague\bin\Release\IniReaderUnicode.dll
+D:\UptopCGControl\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\UptopCGControl\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\UptopCGControl\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\UptopCGControl\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\UptopCGControl\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\UptopCGControl\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\UptopCGControl\Vleague\obj\Release\VLeague.csproj.Up2Date
+D:\UptopCGControl\Vleague\obj\Release\VLeague.exe
+D:\UptopCGControl\Vleague\obj\Release\VLeague.pdb
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Release\CGControl.exe.config
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Release\CGControl.exe
+D:\KARISMA CG\VLEAGUE 2024\Vleague\bin\Release\CGControl.pdb
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\CGControl.exe
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\CGControl.pdb
+D:\KARISMA CG\VLEAGUE 2024\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\KARISMA CG\VLEAGUE 2024\VLeague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\CGData\CGControl dev\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\CGData\CGControl dev\Vleague\obj\Release\CGControl.exe
+D:\CGData\CGControl dev\Vleague\obj\Release\CGControl.pdb
+D:\CGData\CGControl dev\Vleague\bin\Release\DataSet1.Designer.cs
+D:\CGData\CGControl dev\Vleague\bin\Release\CGControl.exe.config
+D:\CGData\CGControl dev\Vleague\bin\Release\CGControl.exe
+D:\CGData\CGControl dev\Vleague\bin\Release\CGControl.pdb
+D:\CGData\CGControl dev\Vleague\bin\Release\IniReaderUnicode.dll
+D:\CGData\CGControl dev\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\CGData\CGControl dev\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\CGData\CGControl dev\Vleague\obj\Release\VLeague.csproj.Up2Date
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\DataSet1.Designer.cs
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\CGControl.exe.config
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\CGControl.exe
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\CGControl.pdb
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\IniReaderUnicode.dll
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\Newtonsoft.Json.dll
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\bin\Release\Newtonsoft.Json.xml
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.FrmSetting.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.Properties.Resources.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\VLeague.csproj.CopyComplete
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\CGControl.exe
+C:\Users\Admin-HP\OneDrive\Winform C# DEV\Vleague\obj\Release\CGControl.pdb
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\DataSet1.Designer.cs
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe.config
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\CGControl.pdb
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\IniReaderUnicode.dll
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.CopyComplete
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\CGControl.exe
+D:\KARISMA CG\VLEAGUE 2025\Vleague\obj\Release\CGControl.pdb
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\DataSet1.Designer.cs
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe.config
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\CGControl.pdb
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\IniReaderUnicode.dll
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\CGControl.exe
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\CGControl.pdb
+D:\UptopCGControl\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.CopyComplete
+D:\Vleague\bin\Release\DataSet1.Designer.cs
+D:\Vleague\bin\Release\CGControl.exe.config
+D:\Vleague\bin\Release\CGControl.exe
+D:\Vleague\bin\Release\CGControl.pdb
+D:\Vleague\bin\Release\IniReaderUnicode.dll
+D:\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\Vleague\obj\Release\VLeague.csproj.CopyComplete
+D:\Vleague\obj\Release\CGControl.exe
+D:\Vleague\obj\Release\CGControl.pdb
+D:\UptopCGControl\VLEAGUE 2025\Vleague\bin\Release\Control.Draggable.dll
+D:\VL\Vleague\bin\Release\DataSet1.Designer.cs
+D:\VL\Vleague\bin\Release\CGControl.exe.config
+D:\VL\Vleague\bin\Release\CGControl.exe
+D:\VL\Vleague\bin\Release\CGControl.pdb
+D:\VL\Vleague\bin\Release\Control.Draggable.dll
+D:\VL\Vleague\bin\Release\IniReaderUnicode.dll
+D:\VL\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\VL\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\VL\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\VL\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\VL\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\VL\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\VL\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\VL\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\VL\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\VL\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\VL\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\VL\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\VL\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\VL\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\VL\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\VL\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\VL\Vleague\obj\Release\VLeague.csproj.CopyComplete
+D:\VL\Vleague\obj\Release\CGControl.exe
+D:\VL\Vleague\obj\Release\CGControl.pdb
+D:\VL\Vleague\bin\Release\ComponentFactory.Krypton.Toolkit.dll
+D:\VL\Vleague\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+E:\CG\UptopCGControl\Vleague\bin\Release\DataSet1.Designer.cs
+E:\CG\UptopCGControl\Vleague\bin\Release\CGControl.exe.config
+E:\CG\UptopCGControl\Vleague\bin\Release\CGControl.exe
+E:\CG\UptopCGControl\Vleague\bin\Release\CGControl.pdb
+E:\CG\UptopCGControl\Vleague\bin\Release\Control.Draggable.dll
+E:\CG\UptopCGControl\Vleague\bin\Release\IniReaderUnicode.dll
+E:\CG\UptopCGControl\Vleague\bin\Release\Newtonsoft.Json.dll
+E:\CG\UptopCGControl\Vleague\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+E:\CG\UptopCGControl\Vleague\bin\Release\Newtonsoft.Json.xml
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+E:\CG\UptopCGControl\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.FrmSetting.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.Properties.Resources.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+E:\CG\UptopCGControl\Vleague\obj\Release\VLeague.csproj.Up2Date
+E:\CG\UptopCGControl\Vleague\obj\Release\CGControl.exe
+E:\CG\UptopCGControl\Vleague\obj\Release\CGControl.pdb
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\Control.Draggable.dll
+D:\KARISMA CG\VLEAGUE 2025\Vleague\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\DataSet1.Designer.cs
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe.config
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\CGControl.exe
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\CGControl.pdb
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\Control.Draggable.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\IniReaderUnicode.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\bin\Release\Newtonsoft.Json.xml
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmSetting.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\CGControl.exe
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\CGControl.pdb
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.src.menu.FrmPlayScene.resources
+D:\KARISMA CG\CG DEV\VLEAGUE 2025\Vleague\obj\Release\VLeague.csproj.Up2Date
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\DataSet1.Designer.cs
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\CGControl.exe.config
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\CGControl.exe
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\CGControl.pdb
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\Control.Draggable.dll
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\IniReaderUnicode.dll
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\Newtonsoft.Json.dll
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\ComponentFactory.Krypton.Toolkit.pdb
+D:\DEV\VLEAGUE 2025\vleague\bin\Release\Newtonsoft.Json.xml
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmPlayScene.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.FrmSetting.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.Properties.Resources.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.src.model.FrmOption.resources
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\VLeague.csproj.Up2Date
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\CGControl.exe
+D:\DEV\VLEAGUE 2025\vleague\obj\Release\CGControl.pdb
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\DataSet1.Designer.cs
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\CGControl.exe.config
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\CGControl.exe
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\CGControl.pdb
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\Control.Draggable.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\IniReaderUnicode.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\Newtonsoft.Json.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\bin\Release\Newtonsoft.Json.xml
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmPlayScene.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.FrmSetting.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.Properties.Resources.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.src.model.FrmOption.resources
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\VLeague.csproj.Up2Date
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\CGControl.exe
+D:\PhungPhongDEV\VLEAGUE2025-2.0\obj\Release\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.csproj.AssemblyReference.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\CGControl.exe.config
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\Interop.K3DAsyncEngineLib.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.csproj.ResolveComReference.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.chaychudung.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.chaychungang.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmCupQG.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmNews.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmPlayScene.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmPostMatch.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmSettingNews.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmSponsor.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmLowerThird.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmPenalty.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmVar.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmInMatchClock.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmInMatchStatic.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmPreMatch.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmDataImport.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.FrmSetting.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.FrmKarismaMenu.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.Properties.Resources.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmTactical.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.FrmSubstitution.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.menu.NewsControl.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.model.CustomMessageBox.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.model.FrmAbout.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.model.FrmCheckLicenseKey.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.src.model.FrmOption.resources
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.csproj.GenerateResource.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.csproj.CoreCompileInputs.cache
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\CGControl.exe
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\DataSet1.Designer.cs
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\CGControl.exe.config
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\CGControl.exe
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\CGControl.pdb
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\Control.Draggable.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\IniReaderUnicode.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\Newtonsoft.Json.dll
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\bin\Release\Newtonsoft.Json.xml
+D:\PhungPhongDEV\CG-FOOTBALL\CG-FOOTBALL\obj\Release\VLeague.csproj.Up2Date

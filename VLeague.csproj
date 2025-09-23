@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F9AE2620-8E23-446D-B5F1-15D87F91C1EA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VLeague</RootNamespace>
+    <AssemblyName>CGControl</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>uptop.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComponentFactory.Krypton.Toolkit">
+      <HintPath>..\..\KARISMA CG\CG DEV\Krypton-master\Bin\ComponentFactory.Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="Control.Draggable, Version=1.0.5049.269, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\Control.Draggable.1.0.5049.269\lib\net35-Client\Control.Draggable.dll</HintPath>
+    </Reference>
+    <Reference Include="IniReaderUnicode, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\IniReaderUnicode.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="MyEventHandler.cs" />
+    <Compile Include="SetupUC.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SetupUC.Designer.cs">
+      <DependentUpon>SetupUC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\helper\ButtonHelper.cs" />
+    <Compile Include="src\helper\ImageTextComparer.cs" />
+    <Compile Include="src\helper\LicenseKeyHandler.cs" />
+    <Compile Include="src\helper\ListViewColumnSorter.cs" />
+    <Compile Include="src\helper\NumberCaseInsensitiveComparer.cs" />
+    <Compile Include="src\menu\FrmCupQG.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmCupQG.Designer.cs">
+      <DependentUpon>FrmCupQG.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmPlayScene.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmPlayScene.Designer.cs">
+      <DependentUpon>FrmPlayScene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmPostMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmPostMatch.Designer.cs">
+      <DependentUpon>FrmPostMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmSponsor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmSponsor.Designer.cs">
+      <DependentUpon>FrmSponsor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmLowerThird.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmLowerThird.Designer.cs">
+      <DependentUpon>FrmLowerThird.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmPenalty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmPenalty.Designer.cs">
+      <DependentUpon>FrmPenalty.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmVar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmVar.Designer.cs">
+      <DependentUpon>FrmVar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmSubstitution.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmSubstitution.Designer.cs">
+      <DependentUpon>FrmSubstitution.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmInMatchStatic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmInMatchStatic.Designer.cs">
+      <DependentUpon>FrmInMatchStatic.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmInMatchClock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmInMatchClock.Designer.cs">
+      <DependentUpon>FrmInMatchClock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmTactical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmTactical.Designer.cs">
+      <DependentUpon>FrmTactical.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmPreMatch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmPreMatch.Designer.cs">
+      <DependentUpon>FrmPreMatch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmDataImport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmDataImport.Designer.cs">
+      <DependentUpon>FrmDataImport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\model\Button_WOC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="src\model\CustomMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\model\CustomMessageBox.Designer.cs">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\model\FrmAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\model\FrmAbout.Designer.cs">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\model\FrmCheckLicenseKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\model\FrmCheckLicenseKey.Designer.cs">
+      <DependentUpon>FrmCheckLicenseKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\model\FrmOption.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\model\FrmOption.Designer.cs">
+      <DependentUpon>FrmOption.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\model\Player.cs" />
+    <Compile Include="src\config\DBConfig.cs" />
+    <Compile Include="src\config\AppConfig.cs" />
+    <Compile Include="src\helper\DataGridViewCompare.cs" />
+    <Compile Include="src\helper\EventHandler.cs" />
+    <Compile Include="src\helper\Handler.cs" />
+    <Compile Include="src\menu\FrmSetting.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmSetting.Designer.cs">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
+    </Compile>
+    <Compile Include="src\menu\FrmKarismaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="src\menu\FrmKarismaMenu.Designer.cs">
+      <DependentUpon>FrmKarismaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="src\model\Ranking.cs" />
+    <Compile Include="src\model\Static.cs" />
+    <Compile Include="src\model\TeamInfor.cs" />
+    <EmbeddedResource Include="SetupUC.resx">
+      <DependentUpon>SetupUC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmCupQG.resx">
+      <DependentUpon>FrmCupQG.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmPlayScene.resx">
+      <DependentUpon>FrmPlayScene.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmPostMatch.resx">
+      <DependentUpon>FrmPostMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmSponsor.resx">
+      <DependentUpon>FrmSponsor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmLowerThird.resx">
+      <DependentUpon>FrmLowerThird.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmPenalty.resx">
+      <DependentUpon>FrmPenalty.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmVar.resx">
+      <DependentUpon>FrmVar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmInMatchClock.resx">
+      <DependentUpon>FrmInMatchClock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmInMatchStatic.resx">
+      <DependentUpon>FrmInMatchStatic.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmPreMatch.resx">
+      <DependentUpon>FrmPreMatch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmDataImport.resx">
+      <DependentUpon>FrmDataImport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmSetting.resx">
+      <DependentUpon>FrmSetting.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmKarismaMenu.resx">
+      <DependentUpon>FrmKarismaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="src\menu\FrmTactical.resx">
+      <DependentUpon>FrmTactical.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\menu\FrmSubstitution.resx">
+      <DependentUpon>FrmSubstitution.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\model\CustomMessageBox.resx">
+      <DependentUpon>CustomMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\model\FrmAbout.resx">
+      <DependentUpon>FrmAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\model\FrmCheckLicenseKey.resx">
+      <DependentUpon>FrmCheckLicenseKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="src\model\FrmOption.resx">
+      <DependentUpon>FrmOption.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="DataSet1.xsc">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet1.xss">
+      <DependentUpon>DataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="K3DAsyncEngineLib">
+      <Guid>{2B7F2D64-3A8D-401C-BE73-5C0747BA342C}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\soccer-ball-variant_33736.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VLeaguelogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo_vtvbms_v3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Images\continue1.png" />
+    <None Include="Images\playicon48.png" />
+    <None Include="Resources\playicon48.png" />
+    <None Include="Resources\continue1.png" />
+    <None Include="Resources\continue2.png" />
+    <None Include="Resources\continue21.png" />
+    <None Include="Resources\Home_Player_Shirt.png" />
+    <Content Include="uptop.ico" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
