@@ -58,3 +58,4 @@ D:\DEV\CG FOOTBALL\CG-FOOTBALL\bin\x64\Debug\runtimes\win-arm\native\e_sqlite3.d
 D:\DEV\CG FOOTBALL\CG-FOOTBALL\bin\x64\Debug\Microsoft.Data.Sqlite.dll
 D:\DEV\CG FOOTBALL\CG-FOOTBALL\bin\x64\Debug\Microsoft.Data.Sqlite.xml
 D:\DEV\CG FOOTBALL\CG-FOOTBALL\bin\x64\Debug\System.Data.SQLite.xml
+D:\DEV\CG FOOTBALL\CG-FOOTBALL\obj\x64\Debug\CGControl.exe.config

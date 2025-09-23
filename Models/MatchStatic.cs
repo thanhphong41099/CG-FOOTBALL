@@ -2,9 +2,9 @@
 {
     public class MatchStatic
     {
-        public int ID;
-        public string PARM;
-        public int HOME_VALUE;
-        public int AWAY_VALUE;
+        public int ID { get; set; }
+        public string PARM { get; set; }
+        public int HOME_VALUE { get; set; }
+        public int AWAY_VALUE { get; set; }
     }
 }
