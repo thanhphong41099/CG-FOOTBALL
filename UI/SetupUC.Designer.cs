@@ -47,8 +47,15 @@
             this.label85 = new System.Windows.Forms.Label();
             this.label86 = new System.Windows.Forms.Label();
             this.label87 = new System.Windows.Forms.Label();
+            this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
+            this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.dgvMatches = new System.Windows.Forms.DataGridView();
+            this.tabControl1 = new System.Windows.Forms.TabControl();
             this.groupBox1.SuspendLayout();
             this.groupSetting.SuspendLayout();
+            this.tabPage1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvMatches)).BeginInit();
+            this.tabControl1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBox1
@@ -305,11 +312,45 @@
             this.label87.TabIndex = 2;
             this.label87.Text = "IP Address:";
             // 
+            // tabPage1
+            // 
+            this.tabPage1.BackColor = System.Drawing.Color.White;
+            this.tabPage1.Controls.Add(this.dgvMatches);
+            this.tabPage1.Location = new System.Drawing.Point(4, 29);
+            this.tabPage1.Name = "tabPage1";
+            this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage1.Size = new System.Drawing.Size(733, 235);
+            this.tabPage1.TabIndex = 0;
+            this.tabPage1.Text = "Giải đấu";
+            // 
+            // dgvMatches
+            // 
+            this.dgvMatches.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.dgvMatches.BackgroundColor = System.Drawing.Color.White;
+            this.dgvMatches.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvMatches.Location = new System.Drawing.Point(38, 32);
+            this.dgvMatches.Name = "dgvMatches";
+            this.dgvMatches.Size = new System.Drawing.Size(648, 142);
+            this.dgvMatches.TabIndex = 1;
+            // 
+            // tabControl1
+            // 
+            this.tabControl1.Controls.Add(this.tabPage1);
+            this.tabControl1.Font = new System.Drawing.Font("Segoe UI", 11F);
+            this.tabControl1.Location = new System.Drawing.Point(41, 394);
+            this.tabControl1.Name = "tabControl1";
+            this.tabControl1.SelectedIndex = 0;
+            this.tabControl1.Size = new System.Drawing.Size(741, 268);
+            this.tabControl1.TabIndex = 0;
+            // 
             // SetupUC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupSetting);
             this.Name = "SetupUC";
@@ -318,6 +359,9 @@
             this.groupBox1.ResumeLayout(false);
             this.groupSetting.ResumeLayout(false);
             this.groupSetting.PerformLayout();
+            this.tabPage1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dgvMatches)).EndInit();
+            this.tabControl1.ResumeLayout(false);
             this.ResumeLayout(false);
 
         }
@@ -343,5 +387,9 @@
         private System.Windows.Forms.RadioButton radioVL2;
         private System.Windows.Forms.RadioButton radioVL1;
         private System.Windows.Forms.Button btnClearLog;
+        private System.ComponentModel.BackgroundWorker backgroundWorker1;
+        private System.Windows.Forms.TabPage tabPage1;
+        private System.Windows.Forms.DataGridView dgvMatches;
+        private System.Windows.Forms.TabControl tabControl1;
     }
 }

@@ -1,9 +1,10 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Specialized;
 using System.Configuration;
-using System.Data.SQLite;
-using System.IO;
+using VLeague.Data;
 using System.Windows.Forms;
+using VLeague.Repositories;
 
 
 namespace VLeague
@@ -53,28 +54,42 @@ namespace VLeague
 
         private void btnConnectDB_Click(object sender, EventArgs e)
         {
-            var dbPath = txtData.Text.Trim();
+            var dbPath = txtData.Text;
 
+            // Trong phương thức Connect hoặc event handler ở UI:
+            if (!File.Exists(dbPath))
+            {
+                MessageBox.Show("File database không tồn tại! Vui lòng kiểm tra lại đường dẫn.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            // Tiếp tục mở kết nối nếu file tồn tại
             try
             {
-                using (var conn = Db.Open(dbPath)) // PRAGMA FK+WAL đã bật trong Db.Open
-                {
-                    using (var cmd = conn.CreateCommand())
-                    {
-                        cmd.CommandText = "SELECT 1;";
-                        cmd.ExecuteScalar(); // kiểm tra kết nối tối thiểu
-                    }
-                }
-
-                MessageBox.Show("Kết nối DB thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
-            }
-            catch (SQLiteException ex)
-            {
-                MessageBox.Show("SQLite lỗi: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                Db.Connect(dbPath);
+                MessageBox.Show("Kết nối thành công đến cơ sở dữ liệu!", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                LoadDataGrids();
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Lỗi: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show(ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private void LoadDataGrids()
+        {
+            try
+            {
+                var conn = Db.GetConnection();
+
+                var matchesRepo = new MatchesRepo(conn);
+
+                dgvMatches.AutoGenerateColumns = true;
+                dgvMatches.DataSource = matchesRepo.GetAll();
+            }
+            catch (Exception ex)
+            {
+                Logger.Error("Load DataGrids failed", ex);
+                MessageBox.Show($"Lỗi load dữ liệu: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
         }
 

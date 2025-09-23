@@ -2,16 +2,46 @@
 using System;
 using System.Data.SQLite;
 
-static class Db
+namespace VLeague.Data
 {
-    // Kết nối tối giản tới file .db SQLite
-    public static SQLiteConnection Open(string dbPath)
+    public static class Db
     {
-        if (string.IsNullOrWhiteSpace(dbPath))
-            throw new ArgumentException("dbPath rỗng.");
+        private static SQLiteConnection _connection;
 
-        var conn = new SQLiteConnection("Data Source=" + dbPath + ";Version=3;");
-        conn.Open();
-        return conn;
+        // Mở và giữ kết nối một lần, dùng lại suốt app
+        public static void Connect(string dbPath)
+        {
+            if (_connection != null && _connection.State == System.Data.ConnectionState.Open)
+            {
+                _connection.Close();
+                _connection.Dispose();
+                _connection = null;
+            }
+
+            _connection = new SQLiteConnection($"Data Source={dbPath};Version=3;");
+            _connection.Open();
+
+            using (var cmd = new SQLiteCommand("PRAGMA foreign_keys=ON; PRAGMA journal_mode=WAL;", _connection))
+            {
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public static SQLiteConnection GetConnection()
+        {
+            if (_connection == null || _connection.State != System.Data.ConnectionState.Open)
+                throw new Exception("Database connection is not open.");
+            return _connection;
+        }
+
+        public static void Close()
+        {
+            if (_connection != null)
+            {
+                _connection.Close();
+                _connection.Dispose();
+                _connection = null;
+            }
+        }
     }
 }
