@@ -1,7 +1,7 @@
 ﻿// /Session/AppSession.cs
 using System.Drawing;
 
-sealed class AppSession
+class AppSession
 {
     public string DbPath { get; set; }          // set từ SetupUC (file picker)
     public int? CurrentMatchId { get; set; }

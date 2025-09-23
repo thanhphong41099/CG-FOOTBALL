@@ -31,7 +31,7 @@ namespace VLeague
 {
     public partial class FrmSetting : Form
     {
-        private MyEventHandler MyEventHandler;
+        private EventHandlerVisualCG MyEventHandler;
 
         public int m_SceneIndex = -1;
 
@@ -93,7 +93,7 @@ namespace VLeague
                 txtWorkingFolder.Text = AppConfig.ConfigReader.ReadString(key, workingPath);
                 txtData.Text = AppConfig.ConfigReader.ReadString(key, dataFilePath);
                 KAEngine = (KAEngine)Activator.CreateInstance(Marshal.GetTypeFromCLSID(new Guid("D756CDBE-AA31-42B2-9CC7-018753CA61BF")));
-                MyEventHandler = new MyEventHandler(this);
+                MyEventHandler = new EventHandlerVisualCG(this);
                 DBConfig.Connection(txtData.Text);
 
                 connectCG();

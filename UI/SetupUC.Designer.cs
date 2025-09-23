@@ -183,6 +183,7 @@
             this.btnConnectDB.TabIndex = 201;
             this.btnConnectDB.Text = "Connect DB";
             this.btnConnectDB.UseVisualStyleBackColor = false;
+            this.btnConnectDB.Click += new System.EventHandler(this.btnConnectDB_Click);
             // 
             // btnOpenConfig
             // 
@@ -197,7 +198,6 @@
             this.btnOpenConfig.TabIndex = 200;
             this.btnOpenConfig.Text = "Open Config File";
             this.btnOpenConfig.UseVisualStyleBackColor = false;
-            this.btnOpenConfig.Click += new System.EventHandler(this.btnOpenConfig_Click);
             // 
             // btnDataBrowser
             // 

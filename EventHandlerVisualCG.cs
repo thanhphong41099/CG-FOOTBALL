@@ -5,10 +5,10 @@ using VLeague.src.menu;
 
 namespace VLeague
 {
-    internal class MyEventHandler : EventHandler
+    internal class EventHandlerVisualCG : EventHandler
     {
         public FrmSetting Owner;
-        public MyEventHandler(FrmSetting _Owner)
+        public EventHandlerVisualCG(FrmSetting _Owner)
         {
             Owner = _Owner;
         }

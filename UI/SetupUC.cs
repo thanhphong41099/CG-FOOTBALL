@@ -1,56 +1,90 @@
 ﻿using System;
-using System.Data;
-using System.Diagnostics;
+using System.Collections.Specialized;
+using System.Configuration;
+using System.Data.SQLite;
+using System.IO;
 using System.Windows.Forms;
+
 
 namespace VLeague
 {
     public partial class SetupUC : UserControl
     {
         string ip, port, data;
-        private bool _connected;
+
+        private NameValueCollection appSettings;
 
         public SetupUC()
         {
             InitializeComponent();
+            // Lấy appSettings từ app.config
+            appSettings = ConfigurationManager.AppSettings;
         }
 
         private void SetupUC_Load(object sender, EventArgs e)
         {
-            AppConfig.envFileConfig();
-            txtIpAddress.Text = ip = AppConfig.ConfigReader.ReadString("CONNECT", "IPADDRESS");
-            txtPort.Text = port = AppConfig.ConfigReader.ReadString("CONNECT", "PORT");
+            // Đọc giá trị mặc định từ app.config
+            ip = appSettings["DefaultIp"] ?? "127.0.0.1";
+            port = appSettings["DefaultPort"] ?? "30001";
+
+            txtIpAddress.Text = ip;
+            txtPort.Text = port;
 
             radioVL1.Checked = true;
         }
 
-        private void btnOpenConfig_Click(object sender, EventArgs e)
-        {
-            var psi = new ProcessStartInfo();
-            psi.FileName = Application.StartupPath + "\\config.cfg";
-            psi.UseShellExecute = true;
-            Process.Start(psi);
-        }
-
         private void radioVL1_CheckedChanged(object sender, EventArgs e)
         {
-            if (!radioVL1.Checked) return;
-            data = AppConfig.ConfigReader.ReadString("CONNECT", "DATAVLEAGUE1");
-            txtData.Text = data;
+            if (radioVL1.Checked)
+            {
+                data = appSettings["DATAVLEAGUE1"];
+                txtData.Text = data;
+            }
         }
 
         private void radioVL2_CheckedChanged(object sender, EventArgs e)
         {
-            if (!radioVL2.Checked) return;
-            data = AppConfig.ConfigReader.ReadString("CONNECT", "DATAVLEAGUE2");
-            txtData.Text = data;
+            if (radioVL2.Checked)
+            {
+                data = appSettings["DATAVLEAGUE2"];
+                txtData.Text = data;
+            }
+        }
+
+        private void btnConnectDB_Click(object sender, EventArgs e)
+        {
+            var dbPath = txtData.Text.Trim();
+
+            try
+            {
+                using (var conn = Db.Open(dbPath)) // PRAGMA FK+WAL đã bật trong Db.Open
+                {
+                    using (var cmd = conn.CreateCommand())
+                    {
+                        cmd.CommandText = "SELECT 1;";
+                        cmd.ExecuteScalar(); // kiểm tra kết nối tối thiểu
+                    }
+                }
+
+                MessageBox.Show("Kết nối DB thành công.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+            catch (SQLiteException ex)
+            {
+                MessageBox.Show("SQLite lỗi: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Lỗi: " + ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void radioCQG_CheckedChanged(object sender, EventArgs e)
         {
-            if (!radioCQG.Checked) return;
-            data = AppConfig.ConfigReader.ReadString("CONNECT", "DATACUPQUOCGIA");
-            txtData.Text = data;
+            if (radioCQG.Checked)
+            {
+                data = appSettings["DATACUPQUOCGIA"];
+                txtData.Text = data;
+            }
         }
 
         private void btnDataBrowser_Click(object sender, EventArgs e)
