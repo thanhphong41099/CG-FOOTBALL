@@ -51,6 +51,7 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.dgvMatches = new System.Windows.Forms.DataGridView();
             this.tabControl1 = new System.Windows.Forms.TabControl();
+            this.btnSelectMatch = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.groupSetting.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -325,15 +326,18 @@
             // 
             // dgvMatches
             // 
-            this.dgvMatches.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
-            | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.dgvMatches.BackgroundColor = System.Drawing.Color.White;
+            this.dgvMatches.AllowUserToAddRows = false;
+            this.dgvMatches.AllowUserToDeleteRows = false;
+            this.dgvMatches.AutoSizeRowsMode = System.Windows.Forms.DataGridViewAutoSizeRowsMode.DisplayedCells;
             this.dgvMatches.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgvMatches.Location = new System.Drawing.Point(38, 32);
+            this.dgvMatches.Location = new System.Drawing.Point(3, 3);
+            this.dgvMatches.MultiSelect = false;
             this.dgvMatches.Name = "dgvMatches";
-            this.dgvMatches.Size = new System.Drawing.Size(648, 142);
+            this.dgvMatches.ReadOnly = true;
+            this.dgvMatches.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgvMatches.Size = new System.Drawing.Size(727, 229);
             this.dgvMatches.TabIndex = 1;
+            this.dgvMatches.SelectionChanged += new System.EventHandler(this.dgvMatches_SelectionChanged);
             // 
             // tabControl1
             // 
@@ -345,11 +349,28 @@
             this.tabControl1.Size = new System.Drawing.Size(741, 268);
             this.tabControl1.TabIndex = 0;
             // 
+            // btnSelectMatch
+            // 
+            this.btnSelectMatch.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnSelectMatch.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(7)))), ((int)(((byte)(182)))), ((int)(((byte)(213)))));
+            this.btnSelectMatch.FlatAppearance.BorderSize = 0;
+            this.btnSelectMatch.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnSelectMatch.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Bold);
+            this.btnSelectMatch.ForeColor = System.Drawing.Color.White;
+            this.btnSelectMatch.Location = new System.Drawing.Point(663, 686);
+            this.btnSelectMatch.Name = "btnSelectMatch";
+            this.btnSelectMatch.Size = new System.Drawing.Size(115, 32);
+            this.btnSelectMatch.TabIndex = 337;
+            this.btnSelectMatch.Text = "Chọn trận đấu";
+            this.btnSelectMatch.UseVisualStyleBackColor = false;
+            this.btnSelectMatch.Click += new System.EventHandler(this.btnSelectMatch_Click);
+            // 
             // SetupUC
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
+            this.Controls.Add(this.btnSelectMatch);
             this.Controls.Add(this.tabControl1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupSetting);
@@ -389,7 +410,8 @@
         private System.Windows.Forms.Button btnClearLog;
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.TabPage tabPage1;
-        private System.Windows.Forms.DataGridView dgvMatches;
         private System.Windows.Forms.TabControl tabControl1;
+        private System.Windows.Forms.DataGridView dgvMatches;
+        private System.Windows.Forms.Button btnSelectMatch;
     }
 }

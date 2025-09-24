@@ -17,6 +17,7 @@ namespace VLeague
         public  FrmOption FrmOption;
 
         public static SetupUC setupUC;
+        public static DataUC DataUC;
 
         public FrmKarismaMenu()
         {
@@ -130,7 +131,13 @@ namespace VLeague
 
         private void btnData_Click(object sender, EventArgs e)
         {
-
+            if (DataUC == null || DataUC.IsDisposed)
+            {
+                DataUC = new DataUC();
+                this.panelDesktop.Controls.Add(DataUC);
+            }
+            DataUC.BringToFront();
+            DataUC.Show();
         }
 
         private void btnPreMatch_Click(object sender, EventArgs e)

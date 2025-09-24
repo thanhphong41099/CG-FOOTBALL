@@ -172,6 +172,7 @@
     <Compile Include="Repositories\TeamsRepo.cs" />
     <Compile Include="Repositories\WeatherRepo.cs" />
     <Compile Include="Session\AppSession.cs" />
+    <Compile Include="Session\DataManager.cs" />
     <Compile Include="UI\DataUC.cs">
       <SubType>UserControl</SubType>
     </Compile>

@@ -1,10 +1,13 @@
 ﻿using System;
-using System.IO;
 using System.Collections.Specialized;
 using System.Configuration;
-using VLeague.Data;
+using System.Data.SQLite;
+using System.IO;
+using System.Linq;
 using System.Windows.Forms;
+using VLeague.Data;
 using VLeague.Repositories;
+using VLeague.Session;
 
 
 namespace VLeague
@@ -52,47 +55,6 @@ namespace VLeague
             }
         }
 
-        private void btnConnectDB_Click(object sender, EventArgs e)
-        {
-            var dbPath = txtData.Text;
-
-            // Trong phương thức Connect hoặc event handler ở UI:
-            if (!File.Exists(dbPath))
-            {
-                MessageBox.Show("File database không tồn tại! Vui lòng kiểm tra lại đường dẫn.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-                return;
-            }
-
-            // Tiếp tục mở kết nối nếu file tồn tại
-            try
-            {
-                Db.Connect(dbPath);
-                MessageBox.Show("Kết nối thành công đến cơ sở dữ liệu!", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                LoadDataGrids();
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-        private void LoadDataGrids()
-        {
-            try
-            {
-                var conn = Db.GetConnection();
-
-                var matchesRepo = new MatchesRepo(conn);
-
-                dgvMatches.AutoGenerateColumns = true;
-                dgvMatches.DataSource = matchesRepo.GetAll();
-            }
-            catch (Exception ex)
-            {
-                Logger.Error("Load DataGrids failed", ex);
-                MessageBox.Show($"Lỗi load dữ liệu: {ex.Message}", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
-            }
-        }
-
         private void radioCQG_CheckedChanged(object sender, EventArgs e)
         {
             if (radioCQG.Checked)
@@ -112,5 +74,140 @@ namespace VLeague
                 txtData.Text = openFileDialog.FileName;
             }
         }
+
+        private void btnConnectDB_Click(object sender, EventArgs e)
+        {
+            var dbPath = txtData.Text;
+
+            if (!File.Exists(dbPath))
+            {
+                MessageBox.Show("File database không tồn tại! Vui lòng kiểm tra lại đường dẫn.", "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            try
+            {
+                Db.Connect(dbPath);
+                MessageBox.Show("Kết nối thành công đến cơ sở dữ liệu!", "Thành công", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                LoadMatchesGrid();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, "Lỗi", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+        private void ConfigureMatchesGrid()
+        {
+            dgvMatches.AutoGenerateColumns = false;
+            dgvMatches.Columns.Clear();
+
+            // Cột ẩn chứa MATCH_ID
+            var colMatchId = new DataGridViewTextBoxColumn
+            {
+                Name = "MATCH_ID",
+                DataPropertyName = "MATCH_ID",
+                Visible = false
+            };
+            dgvMatches.Columns.Add(colMatchId);
+
+            // Cột ngày thi đấu
+            var colMatchDay = new DataGridViewTextBoxColumn
+            {
+                Name = "MATCH_DAY",
+                DataPropertyName = "MATCH_DAY",
+                HeaderText = "Ngày thi đấu",
+                Width = 150
+            };
+            dgvMatches.Columns.Add(colMatchDay);
+
+            // Cột sân vận động
+            var colStadium = new DataGridViewTextBoxColumn
+            {
+                Name = "STADIUM",
+                DataPropertyName = "STADIUM",
+                HeaderText = "Sân vận động",
+                Width = 150
+            };
+            dgvMatches.Columns.Add(colStadium);
+
+            // Cột đội nhà
+            var colHomeName = new DataGridViewTextBoxColumn
+            {
+                Name = "HOME_NAME",
+                DataPropertyName = "HOME_NAME",
+                HeaderText = "Đội nhà",
+                Width = 220
+            };
+            dgvMatches.Columns.Add(colHomeName);
+
+            // Cột đội khách
+            var colAwayName = new DataGridViewTextBoxColumn
+            {
+                Name = "AWAY_NAME",
+                DataPropertyName = "AWAY_NAME",
+                HeaderText = "Đội khách",
+                Width = 220
+            };
+            dgvMatches.Columns.Add(colAwayName);
+        }
+
+        private void LoadMatchesGrid()
+        {
+            ConfigureMatchesGrid();
+            try
+            {
+                var conn = Db.GetConnection();
+                var matchesRepo = new MatchesRepo(conn);
+                var matchesList = matchesRepo.GetAll();
+
+                dgvMatches.DataSource = matchesList;
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show($"Lỗi load danh sách trận: {ex.Message}");
+            }
+        }
+
+        private void dgvMatches_SelectionChanged(object sender, EventArgs e)
+        {
+            if (dgvMatches.CurrentRow != null)
+            {
+                int matchId = (int)dgvMatches.CurrentRow.Cells["MATCH_ID"].Value;
+            }
+        }
+
+        private void btnSelectMatch_Click(object sender, EventArgs e)
+        {
+            int selectedMatchId = (int)dgvMatches.CurrentRow.Cells["MATCH_ID"].Value;
+            string matchInfo = $"{dgvMatches.CurrentRow.Cells["HOME_NAME"].Value} vs " +
+                              $"{dgvMatches.CurrentRow.Cells["AWAY_NAME"].Value}";
+
+            // Lưu vào session
+            MessageBox.Show($"Đã chọn trận: {matchInfo}", "Thành công",
+                           MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            // TODO: Thực hiện các hành động tiếp theo ở đây
+            ProcessSelectedMatch(selectedMatchId);
+        }
+
+        private void ProcessSelectedMatch(int matchId)
+        {
+            try
+            {
+                // Clear cache dữ liệu cũ
+                DataManager.ClearCache();
+
+                // Load tất cả dữ liệu cho trận mới
+                //DataManager.LoadMatchData(matchId);
+
+                MessageBox.Show("Đã load xong dữ liệu trận đấu!", "Thành công");
+            }
+            catch (Exception ex)
+            {
+                Logger.Error($"Error loading match {matchId} data", ex);
+                MessageBox.Show($"Lỗi load dữ liệu: {ex.Message}");
+            }
+        }
+
     }
 }
