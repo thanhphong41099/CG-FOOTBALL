@@ -198,7 +198,7 @@ namespace VLeague
                 DataManager.ClearCache();
 
                 // Load tất cả dữ liệu cho trận mới
-                //DataManager.LoadMatchData(matchId);
+                DataManager.LoadMatchData(matchId);
 
                 MessageBox.Show("Đã load xong dữ liệu trận đấu!", "Thành công");
             }
